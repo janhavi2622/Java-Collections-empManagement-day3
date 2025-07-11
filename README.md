@@ -5,8 +5,6 @@ A simple console-based **Employee Management System** built using core Java **Co
 
 This mini app allows users to manage employees by performing operations such as **add**, **search**, **delete**, and **display** employee records.
 
----
-
 ## ✅ Features
 
 - 📥 Add a new employee (ID, name, role, salary)
@@ -16,15 +14,11 @@ This mini app allows users to manage employees by performing operations such as 
 - 🔒 Ensures unique Employee IDs using `HashSet`
 - 🚀 Fast search & delete using `HashMap`
 
----
-
 ## 🧱 Technologies Used
 
 - Java (JDK 8+)
 - Collections: `ArrayList`, `HashSet`, `HashMap`
 - `Scanner` for user input
-
----
 
 ## 🧑‍💻 How to Run
 
@@ -35,7 +29,6 @@ This mini app allows users to manage employees by performing operations such as 
 javac EmployeeManagementSystem.java
 java EmployeeManagementSystem
 ```
----
 ## 📸 Sample Output
 
 ```
