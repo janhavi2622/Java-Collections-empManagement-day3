@@ -1,30 +1,43 @@
-````markdown
+```
 # 👔 Employee Management System (Java)
+
 A simple console-based **Employee Management System** built using core Java **Collections** like `ArrayList`, `HashMap`, and `HashSet`.
+
 This mini app allows users to manage employees by performing operations such as **add**, **search**, **delete**, and **display** employee records.
+
 ---
+
 ## ✅ Features
+
 - 📥 Add a new employee (ID, name, role, salary)
 - 🔍 Search an employee by their ID
 - ❌ Delete an employee by ID
 - 📃 Display all employee records
 - 🔒 Ensures unique Employee IDs using `HashSet`
 - 🚀 Fast search & delete using `HashMap`
+
 ---
+
 ## 🧱 Technologies Used
+
 - Java (JDK 8+)
 - Collections: `ArrayList`, `HashSet`, `HashMap`
 - `Scanner` for user input
+
 ---
+
 ## 🧑‍💻 How to Run
+
 1. Clone or download this repo
 2. Open a terminal in the project folder
 3. Compile and run:
 ```
 javac EmployeeManagementSystem.java
 java EmployeeManagementSystem
-````
+```
+---
 ## 📸 Sample Output
+
 ```
 --- Employee Management System ---
 1. Add Employee
